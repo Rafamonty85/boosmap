@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "Boosmap Control",
+  "short_name": "Boosmap",
+  "description": "Control de viajes, gasolina, gastos y resumen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121214",
+  "theme_color": "#40095C",
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  },
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
