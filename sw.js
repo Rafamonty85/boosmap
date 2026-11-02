@@ -1,6 +1,6 @@
 // Service worker de la cáscara PWA de Boosmap.
 // Solo guarda los archivos propios de la cáscara. No toca nada de Google ni tus datos.
-const CACHE = 'boosmap-v1';
+const CACHE = 'boosmap-v2';
 const ARCHIVOS = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', function (event) {
