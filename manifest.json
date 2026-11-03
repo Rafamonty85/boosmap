@@ -1,7 +1,7 @@
 {
   "id": "boosmap-app-v2",
   "name": "Boosmap Control",
-  "short_name": "Boosmap",
+  "short_name": "Boosmap Control",
   "description": "Control de viajes, gasolina, gastos y resumen.",
   "start_url": "./",
   "scope": "./",
